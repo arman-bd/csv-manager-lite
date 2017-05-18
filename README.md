@@ -1,5 +1,4 @@
 # csv-manager-lite
-Spreadsheet Manager Lite
+<a href="https://github.com/arman-bd/csv-manager-lite/blob/master/spreadsheet.c">Spreadsheet Manager Lite</a>
 
-<meta property="og:image" content="http://i.imgur.com/dNYbecQ.png" />
-<img src="http://i.imgur.com/dNYbecQ.png" />
+<a href="https://github.com/arman-bd/csv-manager-lite/blob/master/spreadsheet.c"><img src="http://i.imgur.com/dNYbecQ.png" /></a>
