@@ -9,7 +9,6 @@ By:
 Arman Hossain
 ID: 161071014
 CSE 11'th Batch
-4'th Trimester
 Shanto-Mariam University
 of Creative Technology
 
